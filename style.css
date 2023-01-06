@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: black;
+  text-align: center;
+  color: white;
+}
+
+canvas {
+  outline: 2px auto white;
+  left: 50% !important;
+  top: 50% !important;
+  transform: translate(-50%, -50%);
+  position: absolute;
+  display: block;
+}
